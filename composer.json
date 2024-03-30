@@ -3,7 +3,8 @@
     "description": "PHP Output Buffer Trait Collection",
     "type": "metapackage",
     "require": {
-        "php": "^8.3"
+        "php": "^8.3",
+        "potter/output-buffer-trait": "dev-main"
     },
     "license": "MIT",
     "authors": [

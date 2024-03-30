@@ -4,7 +4,8 @@
     "type": "metapackage",
     "require": {
         "php": "^8.3",
-        "potter/output-buffer-trait": "dev-main"
+        "potter/output-buffer-trait": "dev-main",
+        "potter/output-buffer-aware-trait": "dev-main"
     },
     "license": "MIT",
     "authors": [
